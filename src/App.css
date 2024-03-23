@@ -1,0 +1,21 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  background-color: rgb(249, 255, 203);
+}
+
+body {
+  background-color: rgb(250, 239, 166);
+}
+
+.button-container{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.image{
+  width: 350px;
+}
